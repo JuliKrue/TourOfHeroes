@@ -8,7 +8,7 @@ Goal is to build an Angular App that helps "...a staffing agency to manage its s
 
 ## Result
 
-* The finished application geets a list of heroes
+* The finished application gets a list of heroes
 * Displays heroes in a list
 * Edits a selected hero's detail
 * Navigates between different heroic data views
