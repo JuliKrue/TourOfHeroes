@@ -22,13 +22,13 @@ Goal is to build an Angular App that helps "...a staffing agency to manage its s
 - [x] Learn about Angular Dependency Injection
 - [x] Learn about RxJS Observables, use RxJS of()
 - [x] Create a message service for communication betweeen classes
-- [ ] Add angular router to navigate betweeen components
-- [ ] Configure router in AppRoutingModule
-- [ ] Define, redirect and parameterize a route, use routerLink directive
+- [x] Add angular router to navigate betweeen components
+- [x] Configure router in AppRoutingModule
+- [x] Define, redirect and parameterize a route, use routerLink directive
 - [ ] Share HeroService with other components
-- [ ] Use HTTP in the app: Load heroes from API and learn about HTTP methodd put,post and delete
+- [ ] Use HTTP in the app: Load heroes from API and learn about HTTP method put,post and delete
 - [ ] Learn more about observables
 
 
-
+- [ ] Fix "app-root" selector did not match any elements error!
 
