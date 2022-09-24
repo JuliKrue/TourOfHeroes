@@ -9,18 +9,8 @@ import { MessagesComponent } from './messages/messages.component';
 import { AppRoutingModule } from './app-routing.module';
 
 @NgModule({
-  imports: [
-    BrowserModule,
-    FormsModule,
-    AppRoutingModule
-  ],
-  declarations: [
-    AppComponent,
-    DashboardComponent,
-    HeroesComponent,
-    HeroDetailComponent,
-    MessagesComponent
-  ],
+  imports: [ BrowserModule, FormsModule, AppRoutingModule],
+  declarations: [ AppComponent, DashboardComponent, HeroesComponent, HeroDetailComponent, MessagesComponent ],
   bootstrap: [ AppComponent ]
 })
 export class AppModule { }

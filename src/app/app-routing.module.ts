@@ -13,7 +13,7 @@ const routes: Routes = [
   { path: 'heroes', component: HeroesComponent }
 ];
 
-//Initialisiert Router, Überwaacht Browser. forRoot: Router wird auf Root Level konfiguriert
+//Initialisiert Router, Überwacht Browser. forRoot: Router wird auf Root Level konfiguriert
 @NgModule({
   imports: [RouterModule.forRoot(routes)],
   exports: [RouterModule]
