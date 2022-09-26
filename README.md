@@ -30,5 +30,5 @@ Goal is to build an Angular App that helps "...a staffing agency to manage its s
 - [ ] Learn more about observables
 
 
-- [ ] Fix "app-root" selector did not match any elements error!
+- [x] Fix "app-root" selector did not match any elements error!
 
